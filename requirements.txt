@@ -1,0 +1,7 @@
+pulp
+pyomo
+pandas
+glpk == 0.4.6
+
+# In terminal, firstly, run command "sudo apt install libglpk-dev python3.8-dev libgmp3-dev" 
+# Then, run "pip install -r requirements.txt"
